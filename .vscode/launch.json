@@ -1,0 +1,15 @@
+
+{
+  "version": "0.2.0",
+  "configurations": [
+      {
+        "name": "01-api",
+        "type": "node-terminal",
+        "request": "launch",
+        "command": "node index.js",       
+        "env": {
+          "TESTE": "LOCAL"
+        }
+      }
+  ]
+}
